@@ -1,0 +1,7 @@
+Based on the results of the project, it can be concluded that the Multiple Linear Regression (MLR) model outperforms the Artificial Neural Network (ANN) regression model in terms of accuracy for the given dataset. 
+Specifically, the MLR model achieved an accuracy of 0.93, whereas the ANN model achieved an accuracy of 0.89. 
+Therefore, the MLR model is more effective for predicting the target variable in this particular case.
+This suggests that, for the data and problem context considered, the simpler MLR model is more suitable than the more complex ANN model.
+
+Note:ANN models perform better with large datasets as they require a significant amount of data to train effectively. 
+The abundance of data helps in learning the underlying patterns more accurately.
