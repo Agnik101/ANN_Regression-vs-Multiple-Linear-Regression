@@ -1,0 +1,2 @@
+For Building the ANN we are using Tensorflow library version 2.15.0.
+TensorFlow is an open-source library developed by Google that provides various tools for creating and training machine learning models
